@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2QsQA40lw2RK5GaeOqSHTxP6d8ZsR6xMMtnQ0tMX434fx8Z+a6DwbBokSgaSNwdGz6RaLLtPvPhvn8G2hP54g==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\VStudio\\CNPM\\DangNhap\\formDonhang\\formDonhang.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
